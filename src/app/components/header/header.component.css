@@ -1,0 +1,30 @@
+
+header {
+   background: rgb(34,193,195);
+   background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(24,164,97,0.7343312324929971) 100%);
+   color: black;
+   font-weight: 500;
+   font-size: 20px;
+   border-radius: 8px 8px 0 0; 
+ 
+}
+
+.course {
+   margin: auto;
+   padding: 20px 0 20px;
+}
+
+.course__eur {
+   margin-bottom: 10px;
+   margin-top: 20px;
+}
+
+.course__uah {
+   margin-right: 20px;
+   color: #3f3232;
+}
+
+.course__uah--margin {
+   margin-left: 2px;
+}
+
