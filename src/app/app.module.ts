@@ -30,3 +30,8 @@ import {ConverterComponent} from './components/converter/converter.component'
 export class AppModule {
 }
 
+// import {APP_BASE_HREF} from '@angular/common';
+//{provide: APP_BASE_HREF, useValue: '/app'}
+// as above in the documentation it writes for publishing a site - but it doesn't work like that
+// and baseHref and deployUrl was not in angular.json
+// https://stackoverflow.com/questions/68453909/remove-warning-option-basehref-is-depracated-use-basehref-option-in-the-browse

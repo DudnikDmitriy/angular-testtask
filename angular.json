@@ -3,7 +3,7 @@
    "version": 1,
    "newProjectRoot": "projects",
    "projects": {
-      "currency-converter-angular": {
+      "converter-angular": {
          "projectType": "application",
          "schematics": {},
          "root": "",
@@ -13,9 +13,9 @@
             "build": {
                "builder": "@angular-devkit/build-angular:browser",
                "options": {
-                  "baseHref": "/currency-converter-angular-s/",
-                  "deployUrl": "/currency-converter-angular-s/",
-                  "outputPath": "dist/currency-converter-angular-s",
+                  "baseHref": "/converter-angular/",
+                  "deployUrl": "/converter-angular/",
+                  "outputPath": "dist/converter-angular",
                   "index": "src/index.html",
                   "main": "src/main.ts",
                   "polyfills": "src/polyfills.ts",
