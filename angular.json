@@ -15,7 +15,7 @@
                "options": {
                   "baseHref": "/converter-angular/",
                   "deployUrl": "/converter-angular/",
-                  "outputPath": "dist/converter-angular",
+                  "outputPath": "docs",
                   "index": "src/index.html",
                   "main": "src/main.ts",
                   "polyfills": "src/polyfills.ts",
